@@ -7,6 +7,7 @@ This repository contains the data science projects I've completed or am currentl
     An exploratory data analysis of the [complete Pokémon dataset](https://www.kaggle.com/rounakbanik/pokemon) comprising types, base stats, and various other information on 802 Pokémon from 7 generations. The EDA includes:
 	- **Data cleaning:** Reducing the data set to the relevant features and type conversions
 	- **Type distributions:** Tracking in visualizing the distributions of Pokémon types throughout the generations
+	![Pokémon type distribution through the generations](Pokemon_EDA/pokemon_preview.png)
 	- **Base stats by type:** Exploring the ability base stats and their dependence on type
 	- **Base stats by generation:** Tracking ability base stats through the generations
 	- **Base total by legendary status** Checking if the legendary Pokémon are really that legendary
