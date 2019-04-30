@@ -14,7 +14,6 @@ This repository contains the data science projects I've completed or am currentl
 	- **Base stat correlations** Exploring correlations between base stats, height and weight
 	- **(Experimental) Dimensionality reduction**: Simplifying the base stat space using PCA and t-SNE
 
-<<<<<<< HEAD
   _Tools: NumPy, Pandas, Matplotlib, Seaborn, scikit-learn_
 
 - ### [Multiclass classification with Fashion-MNIST]()
@@ -25,8 +24,5 @@ This repository contains the data science projects I've completed or am currentl
   - **Model evaluation:** Evaluating the model's performance on 10,000 unknown images and tracking the loss and accuracy as a function of epoch number for further insight
   - **Visualization:** Applying the trained model to the validation dataset and visualizing its predictions
   ![Pokémon type distribution through the generations](Fashion_MNIST/fashion_MNIST_preview.png)
-  
+
   _Tools: NumPy, Pandas, Matplotlib, Seaborn, Keras_
-=======
-    _Tools: NumPy, Pandas, Matplotlib, Seaborn, scikit-learn_
->>>>>>> 39afaa7cdf725a717f4254748a3c82c11cd2f0b6
