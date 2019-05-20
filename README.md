@@ -8,7 +8,7 @@ This repository contains the data science projects I've completed or am currentl
 
     _Tools: NumPy, Pandas, Matplotlib, Seaborn, scikit-learn_
 
-- ### [Multiclass classification with Fashion-MNIST]()
+- ### [Multiclass classification with Fashion-MNIST](https://github.com/chris-winta/Data-Science-Projects/tree/master/Fashion_MNIST)
     Everybody does MNIST, so let's do Fashion-MNIST! A convolutional neural network (CNN) is trained on 60,000 greyscale images of fashion articles from 10 categories. The data is provided by Zalando's [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset.
 
     _Tools: NumPy, Pandas, Matplotlib, Seaborn, Keras_
